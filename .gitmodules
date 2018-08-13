@@ -1,9 +1,6 @@
 [submodule "Arachne"]
 	path = Arachne
 	url = https://github.com/PlatformLab/Arachne.git
-[submodule "arachne-sosp2017-benchmarks"]
-	path = arachne-sosp2017-benchmarks
-	url = https://github.com/PlatformLab/arachne-sosp2017-benchmarks.git
 [submodule "googletest"]
 	path = googletest
 	url = https://github.com/google/googletest.git
